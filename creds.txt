@@ -1,0 +1,18 @@
+
+The credentials for this project;
+
+1- Appwrite:
+
+Aura
+nfq51110@nowni.com
+Developer-0099
+
+
+Android-Package--->>
+com.faraz.aora
+
+
+
+
+
+
